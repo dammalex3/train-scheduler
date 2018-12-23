@@ -1,0 +1,26 @@
+.container-fluid {
+    /* background-color: rgba(173, 173, 173, 0.301); */
+}
+
+#train-schedule-header {
+    background-color: rgba(4, 31, 151, 0.945);
+    color: white;
+}
+
+#add-train-header {
+    background-color: rgba(4, 31, 151, 0.945);
+    color: white;
+}
+
+#tron {
+    border-bottom: 1px solid black;
+    background: none;
+}
+
+#train-schedule-div {
+    margin-top: 20px;
+}
+
+#add-train-div {
+    margin-top: 50px;
+}
